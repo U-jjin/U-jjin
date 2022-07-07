@@ -6,16 +6,13 @@
 
 ###  Let me introduce my self...
 
-- 🌱I'm current student learning python, data analysis. 
+- 🌱I'm junior Developer
 - I majored in computer information engineering💻⌨🖱
 
-- I experienced Java, Android.
 
 
 
-### SKILL
 
-- 
-
-- 
+### 🪄SKILL🪄
+#F7DF1E
 
